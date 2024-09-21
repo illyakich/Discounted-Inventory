@@ -1,7 +1,4 @@
-﻿using System.Diagnostics.CodeAnalysis;
-using System.Runtime.CompilerServices;
-
-Console.WriteLine("The following items are avaliable: \n 1 - Rope \r \n 2 - Torches \r \n 3 - Climbing Equipment \r \n 4 - Clean Water \r \n 5 - Machete \r \n 6 - Canoe \r \n 7 - Food Supplies \r");
+﻿Console.WriteLine("The following items are avaliable: \n 1 - Rope \r \n 2 - Torches \r \n 3 - Climbing Equipment \r \n 4 - Clean Water \r \n 5 - Machete \r \n 6 - Canoe \r \n 7 - Food Supplies \r");
 Console.Write("What's your name? ");
 string response;
 
